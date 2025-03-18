@@ -1,4 +1,5 @@
 # Weston Cassady - GEOG678
-## Homework     |Labs         |Project
+## Table:-
+## Homework     |Labs         |Projects
 ### |:-------------: |:|:-------------:| :|-----:|
-#### |[week01](homework/week01)|[week01](lab/week01)||[week01](project/week01)
+#### |[Week01](homework/week01)|[Week01](lab/week01)||[Week01](project/week01)
