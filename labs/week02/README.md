@@ -2,7 +2,7 @@
 | Homework      |Labs           |Projects       |
 |:-------------:|:-------------:|:-------------:|
 |[Week01](homework/week01/README.md)|[Week01](labs/week01/README.md)|             |
-|[Week02](homework/week02/README.md)|[Week02]([labs/week02/README.md](https://experience.arcgis.com/experience/cf54e478d96e4dbd83489a0fa54ff4ce))|             |
+|[Week02](homework/week02/README.md)|[Week02](labs/week02/README.md](https://experience.arcgis.com/experience/cf54e478d96e4dbd83489a0fa54ff4ce)|             |
 |[Week03](homework/week03/README.md)|[Week03](labs/week03/README.md)|             |
 |[Week04](homework/week04/README.md)|[Week04](labs/week04/README.md)|             |
 |[Week05](homework/week05/README.md)|[Week05](labs/week05/README.md)|             |
