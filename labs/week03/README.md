@@ -3,7 +3,7 @@
 |:-------------:|:-------------:|:-------------:|
 |[Week01](homework/week01/README.md)|[Week01](labs/week01/README.md)|             |
 |[Week02](homework/week02/README.md)|[Week02](labs/week02/README.md)|             |
-|[Week03](homework/week03/README.md)|[Week03](labs/week03/README.md)|             |
+|[Week03](homework/week03/README.md)|(https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week03)|             |
 |[Week04](homework/week04/README.md)|[Week04](labs/week04/README.md)|             |
 |[Week05](homework/week05/README.md)|[Week05](labs/week05/README.md)|             |
 |[Week06](homework/week06/README.md)|[Week06](labs/week06/README.md)|             |
