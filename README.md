@@ -6,6 +6,6 @@
 |[Week03](homework/week03/README.md)|[Week03](https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week03)|             |
 |[Week04](homework/week04/README.md)|[Week04](https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week04)|             |
 |[Week05](homework/week05/README.md)|[Week05](https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week05)|             |
-|[Week06](homework/week06/README.md)|[Week06]((https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week06))|             |
+|[Week06](homework/week06/README.md)|[Week06]((https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week06)|             |
 |[Week07](homework/week07/README.md)|[Week07](labs/week07/README.md)|             |
 |[Week08](homework/week08/README.md)|[Week08](labs/week08/README.md)|             |
