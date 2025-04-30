@@ -1,0 +1,8 @@
+Real-Time Snowplow Map - Cassady
+
+Link:
+https://www.arcgis.com/apps/dashboards/b488d0db83e54b5a86f69a2369ce5e7d
+
+Or try this link:
+https://tamu.maps.arcgis.com/apps/dashboards/b488d0db83e54b5a86f69a2369ce5e7d
+
