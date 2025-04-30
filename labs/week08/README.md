@@ -8,4 +8,4 @@
 |[Week05](homework/week05/README.md)|[Week05](labs/week05/README.md)|             |
 |[Week06](homework/week06/README.md)|[Week06](labs/week06/README.md)|             |
 |[Week07](homework/week07/README.md)|[Week07](labs/week07/README.md)|             |
-|[Week08](homework/week08/README.md)|[Week08](labs/week08/README.md)|             |
+|[Week08](homework/week08/README.md)|[Week08](https://github.com/westontamu/GEOG-WestonCassady-GEOG678/tree/main/labs/week08)|             |
